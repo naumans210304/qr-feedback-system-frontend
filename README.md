@@ -16,7 +16,9 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
    EXPO_PUBLIC_API_URL=https://qr-feedback-system-backend-czm2.onrender.com
 
-4. Start the app
+4. MAKE SURE TO BE CONNECTED TO THE SAME WIFI NETWORK FROM YOUR PHONE TO YOUR PC WHEN SCANNING THE EXPO GO QR CODE ON THE FRONTEND
+
+5. Start the app
 
     npx expo start 
    
